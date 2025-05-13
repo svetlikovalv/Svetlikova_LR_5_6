@@ -1,6 +1,6 @@
 #include <ctime>
 #include <map>
-#include "Svetlikova_LR5_Methods.h"
+#include "Svetlikova_LR5_Methods.cpp"
 #include "Svetlikova_LR5_def.h"
 using namespace std;
 

@@ -1,4 +1,0 @@
-#ifndef SVETLIKOVA_LR_5_6_METHODS_H
-#define SVETLIKOVA_LR_5_6_METHODS_H
-
-#endif
